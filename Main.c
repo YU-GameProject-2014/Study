@@ -3,7 +3,7 @@
 
 
 
-int Main(){
+int main(){
 	int a,b,ans;
 	a=1;
 	b=1;
