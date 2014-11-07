@@ -4,6 +4,7 @@
 #endif
 
 
+
 int Main(){
 	int a,b,ans;
 	a=1;
