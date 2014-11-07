@@ -1,7 +1,5 @@
-#ifdef HEAD_GARD
-#define HEAD_GARD
+
 #include "main.h"
-#endif
 
 
 
@@ -11,4 +9,5 @@ int Main(){
 	b=1;
 	ans=Calc(a,b);
 	printf("%d+%d=%d",a,b,ans);
+	return 0;
 }
